@@ -66,7 +66,7 @@ A custom Power Automate flow sends **daily reminders** to make sure no task is m
 
 ## Power Automate Flow – Overview
 
-Your daily reminder flow includes:
+Daily reminder flow includes:
 
 1. **Trigger**: Recurrence (every day)
 2. **Step**: Get items from your Task List
@@ -93,16 +93,6 @@ This Power App was built to:
 - Showcase no-code development skills on GitHub  
 - Demonstrate end-to-end application design  
 - Strengthen business analytics + automation portfolio  
-
----
-
-## Future Enhancements
-
-- Add push notifications for overdue tasks  
-- Add category-based dashboards  
-- Integrate Power BI charts  
-- Add user authentication  
-- Add attachment and notes to tasks  
 
 ---
 
