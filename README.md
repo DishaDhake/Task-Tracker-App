@@ -53,7 +53,7 @@ For example:
 ![Task Details]([image_Task_details.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1452.PNG)
 
 ### 📬 DropDown Filter
-![DropDown Filter](image_dropdown.png)
+![DropDown Filter](image_dropdown.png)(https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1453.PNG)
 
 ---
 
