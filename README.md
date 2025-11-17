@@ -47,7 +47,7 @@ _Add your screenshots in the `/images` folder and reference them here._
 For example:
 
 ### 📌 Home Screen
-![Task Tracker Home](images/home.png)
+![Task Tracker Home]([images/home.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1451.PNG)
 
 ### 📝 Add Task Screen
 ![Add Task](images/add_task.png)
