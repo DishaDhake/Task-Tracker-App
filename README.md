@@ -47,13 +47,13 @@ _Add your screenshots in the `/images` folder and reference them here._
 For example:
 
 ### 📌 Home Screen
-![Task List]([images/home.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1451.PNG)
+![Task List]([Image_Task_list.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1451.PNG)
 
 ### 📝 Add Task Screen
-![Task Details](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1452.PNG)
+![Task Details]([image_Task_details.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1452.PNG)
 
-### 📬 Daily Reminder Flow
-![Power Automate Flow](images/flow.png)
+### 📬 DropDown Filter
+![DropDown Filter](image_dropdown.png)
 
 ---
 
