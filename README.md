@@ -1,6 +1,6 @@
-# 🗂️ Task Tracker – Power Apps Application
+# Task Tracker – Power Apps Application
 
-A fully functional **Task Tracker** application built using **Microsoft Power Apps**, designed to help users create, manage, and track daily tasks with automated reminders using **Power Automate**.
+A fully functional Task Tracker application built using Microsoft Power Apps, designed to help users create, manage, and track daily tasks with automated reminders using Power Automate.
 
 This project demonstrates:
 - Canvas app design
@@ -11,14 +11,14 @@ This project demonstrates:
 
 ---
 
-## ✨ Features
+## Features
 
-### 📝 **1. Add, Edit, and Delete Tasks**
+### **1. Add, Edit, and Delete Tasks**
 - Create tasks with priority, due date, and category
 - Update task status: Pending → In Progress → Completed
 - Delete tasks that are no longer needed
 
-### 📅 **2. Daily Reminder Notifications (Power Automate)**
+### **2. Daily Reminder Notifications (Power Automate)**
 A custom Power Automate flow sends **daily reminders** to make sure no task is missed.
 
   Automation includes:
@@ -27,37 +27,33 @@ A custom Power Automate flow sends **daily reminders** to make sure no task is m
 - Sending notifications or email reminders  
 - Personalized task summaries
 
-### 🎨 **3. Clean & Simple User Interface**
+### **3. Clean & Simple User Interface**
 - Clear task list layout  
 - Buttons for adding new tasks  
 - Filters for completed / pending tasks  
 - Mobile-friendly UI
 
-### 🔍 **4. Task Filters and Sorting**
+### **4. Task Filters and Sorting**
 - Filter by status, priority, deadline  
 - Sort by due date or importance  
 - View tasks in a structured format
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
-_Add your screenshots in the `/images` folder and reference them here._
-
-For example:
-
-### 📌 Home Screen
+### Home Screen
 ![Task List]([Image_Task_list.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1451.PNG)
 
-### 📝 Add Task Screen
+### Add Task Screen
 ![Task Details]([image_Task_details.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1452.PNG)
 
-### 📬 DropDown Filter
+### DropDown Filter
 ![DropDown Filter]([image_dropdown.png](https://github.com/DishaDhake/Task-Tracker-App/blob/main/IMG_1453.PNG)
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
@@ -68,7 +64,7 @@ For example:
 
 ---
 
-## 🔁 Power Automate Flow – Overview
+## Power Automate Flow – Overview
 
 Your daily reminder flow includes:
 
@@ -87,22 +83,8 @@ This shows your understanding of:
 - Trigger scheduling  
 - Notification systems  
 
----
 
-## 🚀 How to Use the App (If Someone Downloads It)
-
-1. Download the screenshots or documentation from this GitHub repo  
-2. Recreate the UI in Power Apps (optional)  
-3. Or request the creator for the exported app package (optional)  
-4. (If applicable) Import the Power Automate flow  
-5. Update data connections  
-6. Run the app
-
-> Note: This project is shared for **portfolio and learning purposes**, so only screenshots and documentation are included.
-
----
-
-## 📘 Purpose of This Project
+## Purpose of This Project
 
 This Power App was built to:
 - Improve personal productivity  
@@ -114,7 +96,7 @@ This Power App was built to:
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Add push notifications for overdue tasks  
 - Add category-based dashboards  
@@ -124,6 +106,6 @@ This Power App was built to:
 
 ---
 
-## 👩‍💻 Created By
+## Created By
 **Disha Dhake**  
 Power Apps • Power Automate • Business Analytics  
